@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... AdLister, Pizza App, and Movie App.
+- 🔭 I’m currently working on ... AdLister, Pizza App, and Movie App.  ... OH!  I'm also working on this Welcome Profile page!
 - 🌱 I’m currently learning ... J2EE
 - 👯 I’m looking to collaborate on ... CodeUp Cornerstone Project
 - 🤔 I’m looking for help with ... Entering the Software Development Career

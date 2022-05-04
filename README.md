@@ -4,13 +4,17 @@
 **WebDevJasonCameron/WebDevJasonCameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... AdLister, Pizza App, and Movie App.
+- 🌱 I’m currently learning ... J2EE
+- 👯 I’m looking to collaborate on ... CodeUp Cornerstone Project
+- 🤔 I’m looking for help with ... Entering the Software Development Career
+- 💬 Ask me about ... Alaska, RV living and Bulladors
+- 📫 How to reach me: ... Email is best: Dev.JasonCameron@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I like 3D modling in Blender and sculpting Zbrush 
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>

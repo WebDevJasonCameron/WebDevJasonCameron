@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-
+| 🖥 | Some things about | Me|
 |----|---|---|
 | 🔭 |  I’m currently working on | AdLister, J2EE |
 | 👯 |  I’m looking to collaborate on | Cornerstone Project |

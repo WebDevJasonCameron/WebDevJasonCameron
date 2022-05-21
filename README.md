@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-| I | Starter | My End |
+
 |----|---|---|
 | 🔭 |  I’m currently working on | AdLister, J2EE |
 | 👯 |  I’m looking to collaborate on | Cornerstone Project |

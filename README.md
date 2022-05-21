@@ -13,9 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like 3D modling in Blender and sculpting in Zbrush 
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WebDevJasonCameron&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-| 🖥 | Some things about... | |
+| 🖥 | Currently... | |
 |----|---|---|
 | 🔭 |  I’m currently working on... |  Spring and Thymeleaf|
 | 👯 |  I’m looking to collaborate on... | Cornerstone Project |

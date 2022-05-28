@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... |  Spring and Thymeleaf|
-| 👯 |  I’m looking to collaborate on... | Cornerstone Project |
+| 🔭 |  I’m working on... |  Capstone Project |
+| 👯 |  I’m looking to collaborate on... | opensource docs |
 | 🤔 |  I’m looking for help with... | Entering the Software Development Career |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |

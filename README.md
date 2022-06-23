@@ -3,7 +3,8 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... |  Capstone Project: Primary Site <a href="https://feedme.lol/">Feedme</a>, Secondary Site <a href="https://recipefeed.online/">RecipeFeed</a>
+| 🔭 |  I’m working on... | Refactoring <a href="https://github.com/WebDevJasonCameron/tech-tut-reviews"> \Tech Tut Reviews</a> |
+| 🙌 | Just completed... | Capstone Project: Primary Site <a href="https://feedme.lol/">Feedme</a> |
 | 👯 |  I’m looking to collaborate on... | opensource docs |
 | 🤔 |  I’m looking for help with... | Entering the Software Development Career |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |

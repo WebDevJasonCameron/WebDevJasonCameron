@@ -5,7 +5,7 @@
 |----|---|---|
 | 🔭 |  I’m working on... |React-Complete guide |
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
-| 👯 |  I’m looking to collaborate on... | opensource docs |
+| 👯 |  I’m looking to collaborate on... | Non-profit Project |
 | 🤔 |  I’m looking for help with... | Entering the Software Development Career |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |

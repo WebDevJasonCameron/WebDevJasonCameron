@@ -5,6 +5,7 @@
 |----|---|---|
 | 🔭 |  I’m working on... |Angular-Complete guide |
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
+| 🎙 | Publishing | Walk-throughs on Java Code Challenges |
 | 👯 |  I’m looking to collaborate on... | Non-profit Project |
 | 🤔 |  I’m looking for help with... | Learning about Kafka |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |

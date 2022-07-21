@@ -58,7 +58,7 @@
   </a>
   <!--ANGULAR-->
   <a href="https:/angular.io/docs" target="_blank" rel="noreferrer"> 
-      <img src="" alt="angular" width="40" height="40"/>
+      <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/angular.png" alt="angular" width="40" height="40"/>
   </a>
 
 </p>

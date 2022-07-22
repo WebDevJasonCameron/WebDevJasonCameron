@@ -3,7 +3,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... |Angular-Complete guide |
+| 🔭 |  I’m working on... | Refreshing Python Skills! |
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
 | 🎙 | Publishing... | Walk-throughs on Java Code Challenges |
 | 👯 |  I’m looking to collaborate on... | Non-profit Project |

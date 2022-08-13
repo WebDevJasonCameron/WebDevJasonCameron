@@ -7,7 +7,7 @@
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
 | 🎙 | Publishing... | Walk-throughs on Java Code Challenges |
 | 👯 |  I’m looking to collaborate on... | Non-profit Project |
-| 🤔 |  I’m looking for help with... | Learning about Kafka |
+| 🤔 |  I’m looking for help with... | ElasticSearch |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |
 | 🧢 | Where I hang my hat...| GeekDom SA |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |

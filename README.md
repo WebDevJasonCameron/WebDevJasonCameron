@@ -3,7 +3,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Python, Airflow, BASH, NANO and VIM|
+| 🔭 |  I’m working on... | Python, Airflow, BASH, NANO, VIM, Hadoop?!  That's a lot!!!|
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
 | 🎙 | Publishing... | Walk-throughs on Java Code Challenges |
 | 👯 |  I’m looking to collaborate on... | Non-profit Project |

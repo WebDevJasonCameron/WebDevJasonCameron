@@ -5,9 +5,9 @@
 |----|---|---|
 | 🔭 |  I’m working on... | Python, Airflow, BASH, NANO, VIM, Hadoop?!  That's a lot!!!|
 | 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
-| 🎙 | Publishing... | Walk-throughs on Java Code Challenges |
-| 👯 |  I’m looking to collaborate on... | Non-profit Project |
-| 🤔 |  I’m looking for help with... | ElasticSearch |
+| 🎙 | Publishing... | Standby on that... |
+| 👯 |  I’m looking to collaborate on... | Standby on that... |
+| 🤔 |  I’m looking for help with... | Data Collection |
 | 💬 |  Ask me about... | Alaska, RV living and Bulladors |
 | 🧢 | Where I hang my hat...| Huntsville AL |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |

@@ -4,7 +4,7 @@
 | 🖥 | Currently... | |
 |----|---|---|
 | 🔭 |  I’m working on... | Python, Airflow, BASH, NANO, VIM, Hadoop?!  That's a lot!!!|
-| 🙌 | Just completed... | Capstone Project: <a href="https://feedme.lol/">Feedme</a> |
+| 🙌 | Just completed... | lost and broken data paths (work) |
 | 🎙 | Publishing... | Standby on that... |
 | 👯 |  I’m looking to collaborate on... | Standby on that... |
 | 🤔 |  I’m looking for help with... | Data Collection |

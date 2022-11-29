@@ -3,7 +3,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Python, Airflow, BASH, PowerShell, MongoDB?!  That's a lot!!!|
+| 🔭 |  I’m working on... | Right now, on my free time? PyGame!|
 | 🙌 | Just completed... | lost and broken data paths (work) |
 | 🎙 | Publishing... | Standby on that... |
 | 👯 |  I’m looking to collaborate on... | Standby on that... |

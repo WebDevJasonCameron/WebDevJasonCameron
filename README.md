@@ -3,7 +3,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Right now, on my free time? PyGame!|
+| 🔭 |  I’m working on... | It's back to React.  Need to build out that D&D shop!!!|
 | 🙌 | Just completed... | lost and broken data paths (work) |
 | 🎙 | Publishing... | Standby on that... |
 | 👯 |  I’m looking to collaborate on... | Standby on that... |

@@ -4,7 +4,7 @@
 | 🖥 | Currently... | |
 |----|---|---|
 | 🔭 |  I’m working on... | React tutorials.  The start of MERN stack dev |
-| 🙌 |  Just completed... | patchiing data pipelines for work... it's ongoing |
+| 🙌 |  Just completed... | Patchiing data pipelines for work... it's ongoing... *sigh |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |
 | 💬 |  Ask me about... | D&D noob stuff, Bullradors, and the not-so-pretty RV Life |

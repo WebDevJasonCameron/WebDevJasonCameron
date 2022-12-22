@@ -5,7 +5,7 @@
 |----|---|---|
 | 🔭 |  I’m working on... | React tutorials.  The start of MERN stack dev |
 | 🙌 |  Just completed... | patchiing data pipelines for work... it's ongoing |
-| 👯 |  I’m looking to collaborate on... | Fictitious D&D shop, DM helping wiz |
+| 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |
 | 💬 |  Ask me about... | D&D noob stuff, Bullradors, and the not-so-pretty RV Life |
 | 🧢 |  Where I hang my hat...| Huntsville AL |

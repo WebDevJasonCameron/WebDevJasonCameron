@@ -3,16 +3,15 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | It's back to React.  Need to build out that D&D shop!!!|
-| 🙌 | Just completed... | lost and broken data paths (work) |
-| 🎙 | Publishing... | Standby on that... |
-| 👯 |  I’m looking to collaborate on... | Standby on that... |
-| 🤔 |  I’m looking for help with... | Data Collection |
-| 💬 |  Ask me about... | Alaska, RV living and Bulladors |
-| 🧢 | Where I hang my hat...| Huntsville AL |
+| 🔭 |  I’m working on... | React tutorials.  The start of MERN stack dev |
+| 🙌 |  Just completed... | patchiing data pipelines for work... it's ongoing |
+| 👯 |  I’m looking to collaborate on... | Fictitious D&D shop, DM helping wiz |
+| 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |
+| 💬 |  Ask me about... | D&D noob stuff, Bullradors, and the not-so-pretty RV Life |
+| 🧢 |  Where I hang my hat...| Huntsville AL |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |
 | 😄 |  Pronouns: | He/Him |
-| ⚡ |  Fun fact: | I like 3D modling in Blender and sculpting in Zbrush |
+| ⚡ |  Fun fact: | I met Mel Gibson as a kid when my dad snuck me into a party |
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WebDevJasonCameron&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

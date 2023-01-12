@@ -5,6 +5,7 @@
    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/CyberMoon001.png" alt="Cyber Moon" style="width:200px;"/>
 </div>
 
+<div align="center">
 | 🖥 | Currently... | |
 |----|---|---|
 | 🔭 |  I’m working on... | React tutorials.  The start of MERN stack dev |
@@ -74,3 +75,4 @@
   <!--JUPITER-->
 </p>
 
+</div>

@@ -5,7 +5,7 @@
    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/CyberMoon001.png" alt="Cyber Moon" style="width:200px;"/>
 </div>
 
-<div align="center">
+
 | 🖥 | Currently... | |
 |----|---|---|
 | 🔭 |  I’m working on... | React tutorials.  The start of MERN stack dev |
@@ -18,7 +18,7 @@
 | 😄 |  Pronouns: | He/Him |
 | ⚡ |  Fun fact: | I met Mel Gibson as a kid when my dad snuck me into a party |
 
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WebDevJasonCameron&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>

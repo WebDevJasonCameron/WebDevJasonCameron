@@ -1,7 +1,9 @@
-<p align="center">
-   ### Hi there!
+<div align="center">
+   <h1> Hi there! </h1>
+</div>
+<div align="center">
    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/CyberMoon001.png" alt="Cyber Moon" style="width:200px;"/>
-</p>
+</div>
 
 | 🖥 | Currently... | |
 |----|---|---|

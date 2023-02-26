@@ -7,7 +7,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Applying my React and DB knowledge to build a better DnD Beyond Clone (Personal Use)... yeah, I know 😅 |
+| 🔭 |  I’m working on... | Applying my React and DB knowledge to build a better D&D Beyond Clone (Personal Use)... yeah, I know 😅 |
 | 🙌 |  Just completed... | Patchiing data pipelines for work... it's ongoing... *sigh |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |
@@ -15,7 +15,7 @@
 | 🧢 |  Where I hang my hat...| Huntsville AL |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |
 | 😄 |  Pronouns: | He/Him |
-| ⚡ |  Fun fact: | I met Mel Gibson as a kid when my dad snuck me into a party |
+| ⚡ |  Fun fact: | I once played an Alto Sax duet and received a standing ovation |
 
 <hr>
 

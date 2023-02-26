@@ -7,7 +7,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | React tutorials.  And Rust... yeah, I know 😅 |
+| 🔭 |  I’m working on... | Applying my React and DB knowledge to build a better DnD Beyond Clone (Personal Use)... yeah, I know 😅 |
 | 🙌 |  Just completed... | Patchiing data pipelines for work... it's ongoing... *sigh |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |

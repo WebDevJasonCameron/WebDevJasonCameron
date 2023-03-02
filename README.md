@@ -10,7 +10,6 @@
 | 🔭 |  I’m working on... | Applying my React and DB knowledge to build a better D&D Beyond Clone (Personal Use)... yeah, I know 😅 |
 | 🙌 |  Just completed... | Patchiing data pipelines for work... it's ongoing... *sigh |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
-| 🤔 |  I’m looking for help with... | Connecting with Jr Web Devs and Software Engineers |
 | 💬 |  Ask me about... | D&D stuff, Bullradors, and the not-so-pretty RV Life |
 | 🧢 |  Where I hang my hat...| Huntsville AL |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |

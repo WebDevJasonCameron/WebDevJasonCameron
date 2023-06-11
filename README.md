@@ -14,7 +14,7 @@
 | 🧢 |  Where I hang my hat...| Huntsville AL |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |
 | 😄 |  Pronouns: | He/Him |
-| ⚡ |  Fun fact: | I once played an Alto Sax duet and received a standing ovation |
+| ⚡ |  Fun fact: | I started out as an aspiring graphic artist.  I still enjoy being creative.  That's where my logo comes from!  |
 
 <hr>
 

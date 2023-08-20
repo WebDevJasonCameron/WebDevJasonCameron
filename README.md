@@ -22,13 +22,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <!--GO-->
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GoLang.svg" alt="go" width="40" height="40"/> 
+  </a>
   <!--PYTHON-->
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/python.png" alt="java" width="40" height="40"/> 
+    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/python.png" alt="python" width="40" height="40"/> 
   </a>
   <!--Airflow-->
   <a href="https://airflow.apache.org/docs/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/airflow.png" alt="java" width="40" height="40"/> 
+    <img src="https://github.com/WebDevJasonCameron/WebDevJasonCameron/blob/main/airflow.png" alt="airflow" width="40" height="40"/> 
   </a>
   <!--JAVA-->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 

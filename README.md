@@ -22,6 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <!--Tailwind-->
+  <a href="(https://v2.tailwindcss.com/doc)" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark" alt="tailwind" width="40" height="40"/> 
+  </a>
    <!--GO-->
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GoLang.svg" alt="go" width="40" height="40"/> 

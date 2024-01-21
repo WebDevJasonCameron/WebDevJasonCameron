@@ -23,8 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <!--Astro-->
-  <a href="[https://v2.tailwindcss.com/doc](https://docs.astro.build/en/getting-started/)" target="_blank" rel="noreferrer"> 
-    <img src="[https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Astro.svg)" alt="astro" width="40" height="40"/> 
+  <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Astro.svg" alt="astro" width="40" height="40"/> 
   </a>
    <!--Tailwind-->
   <a href="https://v2.tailwindcss.com/doc" target="_blank" rel="noreferrer"> 

@@ -11,7 +11,7 @@
 | 🙌 |  Just completed... | Writing scripts to salvage data for client work |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 💬 |  Ask me about... | D&D stuff, Bullradors, and the not-so-pretty RV Life |
-| 🧢 |  Where I hang my hat...| Huntsville AL |
+| 🧢 |  Where I hang my hat...| Huntsville AL, in an RV, Down by the River |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |
 | 😄 |  Pronouns: | He/Him |
 | ⚡ |  Fun fact: | I started out as an aspiring graphic artist.  I still enjoy being creative.  That's where my logo comes from!  |

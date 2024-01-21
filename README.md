@@ -7,7 +7,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Applying React, Java (possibly C++) and PostGres knowledge to build a better D&D Beyond Clone (Personal Use)... yeah, I know 😅 |
+| 🔭 |  I’m working on... | Applying React, Java, Python and PostGres knowledge to build a fun Web Based Magic Items Store, called "The Wizards Bag... It's so much fun! 🧙‍♂️ |
 | 🙌 |  Just completed... | Patching data pipelines for work |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 💬 |  Ask me about... | D&D stuff, Bullradors, and the not-so-pretty RV Life |

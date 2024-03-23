@@ -22,6 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <!--NodeJS-->
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodeJs" width="40" height="40"/> 
+  </a>
    <!--Astro-->
   <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Astro.svg" alt="astro" width="40" height="40"/> 

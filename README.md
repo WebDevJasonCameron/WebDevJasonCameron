@@ -81,6 +81,10 @@
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
   </a> 
+  <!--PostgresL-->
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgres" width="40" height="40"/> 
+  </a> 
   <!--MYSQL-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 

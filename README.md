@@ -7,7 +7,7 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Applying React, Java, Python and PostGres knowledge to build a fun Web Based Magic Items Store, called "The Wizards Bag... It's so much fun! 🧙‍♂️ |
+| 🔭 |  I’m working on... | Working on the basics again.  Also working on fun JS games, like Tetris! |
 | 🙌 |  Just completed... | Writing scripts to salvage data for client work |
 | 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
 | 💬 |  Ask me about... | D&D stuff, Bullradors, and the not-so-pretty RV Life |

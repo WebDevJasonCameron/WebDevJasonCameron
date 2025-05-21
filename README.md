@@ -7,13 +7,12 @@
 
 | 🖥 | Currently... | |
 |----|---|---|
-| 🔭 |  I’m working on... | Working on the basics again.  Also working on fun JS games, like Tetris! |
-| 🙌 |  Just completed... | Writing scripts to salvage data for client work |
-| 👯 |  I’m looking to collaborate on... | Building a fictitious D&D shop that sells magic items |
+| 🔭 |  I’m working on... | Exploring Laravel, and using it in my CharacterArchive project! |
+| 🙌 |  Just completed... | Building a cross domain file transfer project using Python, PHP, and AWS S3 Buckets |
+| 👯 |  I’m looking to collaborate on... | Creating dnd characters and pushing them into the CA DB |
 | 💬 |  Ask me about... | D&D stuff, Bullradors, and the not-so-pretty RV Life |
-| 🧢 |  Where I hang my hat...| Huntsville AL, in an van, Down by the River |
+| 🧢 |  Where I hang my hat...| Huntsville AL, in an Trailer, Down by the River |
 | 📫 |  How to reach me: | Email is best: Dev.JasonCameron@gmail.com |
-| 😄 |  Pronouns: | He/Him |
 | ⚡ |  Fun fact: | I started out as an aspiring graphic artist.  I still enjoy being creative.  That's where my logo comes from!  |
 
 <hr>
